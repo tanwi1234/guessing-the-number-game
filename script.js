@@ -21,7 +21,7 @@ function checkguesses()
 
 	if(userguess === randomNumber)
 	{
-		result.textContent='Congratulations!You won the game';
+		result.textContent='Congratulations!You got it right!';
 		result.style.backgroundColor="green";
 		loworhi.textContent = '';
 		setgameover();
