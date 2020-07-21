@@ -1,0 +1,48 @@
+h1,p
+{
+	text-align:center;
+
+}
+h1
+{
+	padding-top:200px;
+	color:white;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+p
+{
+	font-size:23px;
+	color:yellow;
+}
+label
+{
+	color:pink;
+	font-size:30px;
+}
+div.part
+{
+	text-align: center;
+}
+body
+{
+	background-image: url("https://image.shutterstock.com/image-illustration/blank-product-stand-abstract-background-600w-552942298.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+}
+button
+{
+	align-items:center;
+	justify-content: center;
+	margin:20px;
+	text-align:center;
+}
+.guesssubmit
+{
+	font-weight: bold;
+}
+.guesssubmit:hover
+{
+	background-color: cyan;
+
+}
